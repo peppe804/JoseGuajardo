@@ -710,6 +710,9 @@ section{
     }
 
 }
+.favicon{
+    border-radius: 100px;
+}
 
 .main-title{
     text-align: center;
@@ -734,5 +737,6 @@ section{
         }
     }
 }
+
 
 @import './media';
